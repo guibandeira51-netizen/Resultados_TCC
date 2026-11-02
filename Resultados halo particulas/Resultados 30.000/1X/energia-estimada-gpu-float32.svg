@@ -1,0 +1,677 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 350" role="img" aria-label="Energia estimada — GPU Float32" data-energy-kind="bh"><desc>Pares diretos na GPU · potencial Float32; redução Float64. Normalização: energia inicial própria em t = 0. Escalas verticais independentes. Valores e limites disponíveis nos metadados.</desc><rect width="560" height="350" fill="#102127"></rect><style>.energy-point:hover,.energy-point:focus{stroke:#fff;stroke-width:1.5;outline:none}</style><g font-family="Arial,sans-serif" fill="#d2e1e6" font-size="13"><text x="20" y="27" fill="#67c59e" font-size="18" font-weight="600">Energia estimada — GPU Float32</text><text x="20" y="78" font-size="12">Pares diretos na GPU · potencial Float32; redução Float64</text><text x="20" y="101" font-size="12">Maior |desvio|: +0,000240456792% · último: -1,48201e-5%</text><path d="M120 256.44620873794156H538" stroke="#30474f"></path><text x="111" y="260.44620873794156" text-anchor="end" font-size="11">-2 × 10⁻⁴</text><path d="M120 211.94918813849986H538" stroke="#30474f"></path><text x="111" y="215.94918813849986" text-anchor="end" font-size="11">-1 × 10⁻⁴</text><path d="M120 167.4521675390582H538" stroke="#30474f"></path><text x="111" y="171.4521675390582" text-anchor="end" font-size="11">0</text><text x="120" y="308" text-anchor="middle">0</text><text x="294.07962425925155" y="308" text-anchor="middle">500</text><text x="468.15924851850303" y="308" text-anchor="middle">1.000</text><line data-reference="zero" x1="120" x2="538" y1="167.4521675390582" y2="167.4521675390582" stroke="#d1dfe3" stroke-width="1.4" stroke-dasharray="5 4"></line><text x="535" y="162.4521675390582" text-anchor="end" font-size="11">0</text><path data-series="bh" d="M120 167.4521675390582 L137.65167416291854 173.76569850517146 L157.18340829585208 182.90811477753016 L177.864067966017 142.55172413793102 L189.66666666666669 159.01404607362156 L210.208062635349 210.4906719145153 L229.9486923205064 185.42939604812574 L250.62935199067132 151.85781120992877 L259.29851740796266 155.25933701804016 L279.42212227219727 160.63910455434564 L298.84940862901885 169.72936106364028 L319.8085957021489 149.1030962648723 L328.89555222388805 157.72581276521186 L348.2532067299684 187.20767846015966 L367.99383641512577 175.33650082208442 L387.7344661002832 191.08335175835907 L398.5274029651841 231.82821663228825 L418.4421122771947 179.21283401392998 L438.04347826086956 190.11934058604461 L457.47076461769115 186.2889281701535 L468.2288855572214 192.83209419801562 L488.07396301849076 274.44827586206895 L508.02348825587205 175.45762121756286 L527.7641179410296 183.79233870223123 L537.7911044477761 206.79665273016334 L538 174.04667155328335 " fill="none" stroke="#67c59e" stroke-width="2"></path><circle class="energy-point" data-series="bh" data-time-myr="0" data-value="0" cx="120" cy="167.4521675390582" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 0 Myr
+K: 1.8658587765512142
+U: -3.8177168089975417
+U entre partículas: -3.8177168089975417
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518580324463275
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 0 (0%)
+Erro relativo absoluto: 0
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 0 Myr
+K: 1.8658587765512142
+U: -3.8177168089975417
+U entre partículas: -3.8177168089975417
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518580324463275
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 0 (0%)
+Erro relativo absoluto: 0
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="50.70000075548887" data-value="-0.00001418866000703083" cx="137.65167416291854" cy="173.76569850517146" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 50.70000075548887 Myr
+K: 1.8993081058516288
+U: -3.8511664152404563
+U entre partículas: -3.8511664152404563
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518583093888275
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -1.418866000703083e-7 (-1,41887e-5%)
+Erro relativo absoluto: 1.418866000703083e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 50.70000075548887 Myr
+K: 1.8993081058516288
+U: -3.8511664152404563
+U entre partículas: -3.8511664152404563
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518583093888275
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -1.418866000703083e-7 (-1,41887e-5%)
+Erro relativo absoluto: 1.418866000703083e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="106.80000159144402" data-value="-0.00003473479129671415" cx="157.18340829585208" cy="182.90811477753016" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 106.80000159144402 Myr
+K: 1.9181224605785965
+U: -3.869981170998738
+U entre partículas: -3.869981170998738
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518587104201415
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -3.473479129671415e-7 (-3,47348e-5%)
+Erro relativo absoluto: 3.473479129671415e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 106.80000159144402 Myr
+K: 1.9181224605785965
+U: -3.869981170998738
+U entre partículas: -3.869981170998738
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518587104201415
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -3.473479129671415e-7 (-3,47348e-5%)
+Erro relativo absoluto: 3.473479129671415e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="166.200002476573" data-value="0.00005595979925325518" cx="177.864067966017" cy="142.55172413793102" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 166.200002476573 Myr
+K: 1.9614459400897293
+U: -3.91330288028022
+U entre partículas: -3.91330288028022
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518569401904908
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 5.595979925325518e-7 (+5,59598e-5%)
+Erro relativo absoluto: 5.595979925325518e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 166.200002476573 Myr
+K: 1.9614459400897293
+U: -3.91330288028022
+U entre partículas: -3.91330288028022
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518569401904908
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 5.595979925325518e-7 (+5,59598e-5%)
+Erro relativo absoluto: 5.595979925325518e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="200.10000298172235" data-value="0.000018963340357989057" cx="189.66666666666669" cy="159.01404607362156" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 200.10000298172235 Myr
+K: 1.9791408495299594
+U: -3.930998511838805
+U entre partículas: -3.930998511838805
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518576623088455
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 1.8963340357989058e-7 (+1,89633e-5%)
+Erro relativo absoluto: 1.8963340357989058e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 200.10000298172235 Myr
+K: 1.9791408495299594
+U: -3.930998511838805
+U entre partículas: -3.930998511838805
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518576623088455
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 1.8963340357989058e-7 (+1,89633e-5%)
+Erro relativo absoluto: 1.8963340357989058e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="259.10000386089087" data-value="-0.00009672221599483256" cx="210.208062635349" cy="210.4906719145153" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 259.10000386089087 Myr
+K: 1.999084305647979
+U: -3.9509442259746486
+U entre partículas: -3.9509442259746486
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518599203266696
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -9.672221599483256e-7 (-9,67222e-5%)
+Erro relativo absoluto: 9.672221599483256e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 259.10000386089087 Myr
+K: 1.999084305647979
+U: -3.9509442259746486
+U entre partículas: -3.9509442259746486
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518599203266696
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -9.672221599483256e-7 (-9,67222e-5%)
+Erro relativo absoluto: 9.672221599483256e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="315.8000047057867" data-value="-0.000040400971271530786" cx="229.9486923205064" cy="185.42939604812574" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 315.8000047057867 Myr
+K: 1.9763821809576374
+U: -3.928241001973568
+U entre partículas: -3.928241001973568
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518588210159304
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -4.040097127153079e-7 (-4,04010e-5%)
+Erro relativo absoluto: 4.040097127153079e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 315.8000047057867 Myr
+K: 1.9763821809576374
+U: -3.928241001973568
+U entre partículas: -3.928241001973568
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518588210159304
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -4.040097127153079e-7 (-4,04010e-5%)
+Erro relativo absoluto: 4.040097127153079e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="375.2000055909157" data-value="0.000035045843786954805" cx="250.62935199067132" cy="151.85781120992877" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 375.2000055909157 Myr
+K: 2.0116026769125366
+U: -3.963460025313747
+U entre partículas: -3.963460025313747
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518573484012105
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 3.5045843786954806e-7 (+3,50458e-5%)
+Erro relativo absoluto: 3.5045843786954806e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 375.2000055909157 Myr
+K: 2.0116026769125366
+U: -3.963460025313747
+U entre partículas: -3.963460025313747
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518573484012105
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 3.5045843786954806e-7 (+3,50458e-5%)
+Erro relativo absoluto: 3.5045843786954806e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="400.1000059619546" data-value="0.00002740145375299812" cx="259.29851740796266" cy="155.25933701804016" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 400.1000059619546 Myr
+K: 2.0012136618679515
+U: -3.953071159476803
+U entre partículas: -3.953071159476803
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518574976088514
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 2.740145375299812e-7 (+2,74015e-5%)
+Erro relativo absoluto: 2.740145375299812e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 400.1000059619546 Myr
+K: 2.0012136618679515
+U: -3.953071159476803
+U entre partículas: -3.953071159476803
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518574976088514
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 2.740145375299812e-7 (+2,74015e-5%)
+Erro relativo absoluto: 2.740145375299812e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="457.9000068232417" data-value="0.000015311279031562985" cx="279.42212227219727" cy="160.63910455434564" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 457.9000068232417 Myr
+K: 2.0094933701479674
+U: -3.961351103739865
+U entre partículas: -3.961351103739865
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518577335918978
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 1.5311279031562984e-7 (+1,53113e-5%)
+Erro relativo absoluto: 1.5311279031562984e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 457.9000068232417 Myr
+K: 2.0094933701479674
+U: -3.961351103739865
+U entre partículas: -3.961351103739865
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518577335918978
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 1.5311279031562984e-7 (+1,53113e-5%)
+Erro relativo absoluto: 1.5311279031562984e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="513.7000076547265" data-value="-0.000005117631459151374" cx="298.84940862901885" cy="169.72936106364028" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 513.7000076547265 Myr
+K: 2.0384242709274756
+U: -3.990282403262704
+U entre partículas: -3.990282403262704
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518581323352282
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -5.117631459151374e-8 (-5,11763e-6%)
+Erro relativo absoluto: 5.117631459151374e-8
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 513.7000076547265 Myr
+K: 2.0384242709274756
+U: -3.990282403262704
+U entre partículas: -3.990282403262704
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518581323352282
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -5.117631459151374e-8 (-5,11763e-6%)
+Erro relativo absoluto: 5.117631459151374e-8
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="573.9000085517764" data-value="0.000041236628940536576" cx="319.8085957021489" cy="149.1030962648723" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 573.9000085517764 Myr
+K: 2.0280024936070804
+U: -3.9798597211729536
+U entre partículas: -3.9798597211729536
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518572275658732
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 4.1236628940536574e-7 (+4,12366e-5%)
+Erro relativo absoluto: 4.1236628940536574e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 573.9000085517764 Myr
+K: 2.0280024936070804
+U: -3.9798597211729536
+U entre partículas: -3.9798597211729536
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518572275658732
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 4.1236628940536574e-7 (+4,12366e-5%)
+Erro relativo absoluto: 4.1236628940536574e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="600.0000089406967" data-value="0.000021858440504145493" cx="328.89555222388805" cy="157.72581276521186" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 600.0000089406967 Myr
+K: 2.0414371583593334
+U: -3.993294764159934
+U entre partículas: -3.993294764159934
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518576058006007
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 2.1858440504145494e-7 (+2,18584e-5%)
+Erro relativo absoluto: 2.1858440504145494e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 600.0000089406967 Myr
+K: 2.0414371583593334
+U: -3.993294764159934
+U entre partículas: -3.993294764159934
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518576058006007
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: 2.1858440504145494e-7 (+2,18584e-5%)
+Erro relativo absoluto: 2.1858440504145494e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="655.6000097692013" data-value="-0.00004439737909407205" cx="348.2532067299684" cy="187.20767846015966" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 655.6000097692013 Myr
+K: 2.051883304882019
+U: -4.003742203902156
+U entre partículas: -4.003742203902156
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518588990201375
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -4.4397379094072046e-7 (-4,43974e-5%)
+Erro relativo absoluto: 4.4397379094072046e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 655.6000097692013 Myr
+K: 2.051883304882019
+U: -4.003742203902156
+U entre partículas: -4.003742203902156
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518588990201375
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -4.4397379094072046e-7 (-4,43974e-5%)
+Erro relativo absoluto: 4.4397379094072046e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="712.3000106140971" data-value="-0.00001771878920613652" cx="367.99383641512577" cy="175.33650082208442" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 712.3000106140971 Myr
+K: 2.0305983210113006
+U: -3.9824566993032384
+U entre partículas: -3.9824566993032384
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518583782919379
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -1.771878920613652e-7 (-1,77188e-5%)
+Erro relativo absoluto: 1.771878920613652e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 712.3000106140971 Myr
+K: 2.0305983210113006
+U: -3.9824566993032384
+U entre partículas: -3.9824566993032384
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518583782919379
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -1.771878920613652e-7 (-1,77188e-5%)
+Erro relativo absoluto: 1.771878920613652e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="769.000011458993" data-value="-0.00005310734044876112" cx="387.7344661002832" cy="191.08335175835907" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 769.000011458993 Myr
+K: 2.0639162679202436
+U: -4.0157753369464615
+U entre partículas: -4.0157753369464615
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518590690262179
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -5.310734044876112e-7 (-5,31073e-5%)
+Erro relativo absoluto: 5.310734044876112e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 769.000011458993 Myr
+K: 2.0639162679202436
+U: -4.0157753369464615
+U entre partículas: -4.0157753369464615
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518590690262179
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -5.310734044876112e-7 (-5,31073e-5%)
+Erro relativo absoluto: 5.310734044876112e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="800.000011920929" data-value="-0.0001446749652583207" cx="398.5274029651841" cy="231.82821663228825" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 800.000011920929 Myr
+K: 2.098786777035449
+U: -4.050647633331707
+U entre partículas: -4.050647633331707
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518608562962578
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -0.000001446749652583207 (-0,000144674965%)
+Erro relativo absoluto: 0.000001446749652583207
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 800.000011920929 Myr
+K: 2.098786777035449
+U: -4.050647633331707
+U entre partículas: -4.050647633331707
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518608562962578
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -0.000001446749652583207 (-0,000144674965%)
+Erro relativo absoluto: 0.000001446749652583207
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="857.2000127732754" data-value="-0.000026430233567187017" cx="418.4421122771947" cy="179.21283401392998" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 857.2000127732754 Myr
+K: 2.116040782161942
+U: -4.067899330488906
+U entre partículas: -4.067899330488906
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518585483269644
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -2.643023356718702e-7 (-2,64302e-5%)
+Erro relativo absoluto: 2.643023356718702e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 857.2000127732754 Myr
+K: 2.116040782161942
+U: -4.067899330488906
+U entre partículas: -4.067899330488906
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518585483269644
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -2.643023356718702e-7 (-2,64302e-5%)
+Erro relativo absoluto: 2.643023356718702e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="913.5000136122108" data-value="-0.0000509408781568419" cx="438.04347826086956" cy="190.11934058604461" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 913.5000136122108 Myr
+K: 2.1440296281459794
+U: -4.095888654885929
+U entre partículas: -4.095888654885929
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518590267399496
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -5.09408781568419e-7 (-5,09409e-5%)
+Erro relativo absoluto: 5.09408781568419e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 913.5000136122108 Myr
+K: 2.1440296281459794
+U: -4.095888654885929
+U entre partículas: -4.095888654885929
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518590267399496
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -5.09408781568419e-7 (-5,09409e-5%)
+Erro relativo absoluto: 5.09408781568419e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="969.3000144436955" data-value="-0.00004233263346025385" cx="457.47076461769115" cy="186.2889281701535" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 969.3000144436955 Myr
+K: 2.1543266163428747
+U: -4.106185475062109
+U entre partículas: -4.106185475062109
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.951858858719234
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -4.233263346025385e-7 (-4,23326e-5%)
+Erro relativo absoluto: 4.233263346025385e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 969.3000144436955 Myr
+K: 2.1543266163428747
+U: -4.106185475062109
+U entre partículas: -4.106185475062109
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.951858858719234
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -4.233263346025385e-7 (-4,23326e-5%)
+Erro relativo absoluto: 4.233263346025385e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="1000.2000149041414" data-value="-0.00005703736186614678" cx="468.2288855572214" cy="192.83209419801562" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 1000.2000149041414 Myr
+K: 2.1581202172992513
+U: -4.109979363033908
+U entre partículas: -4.109979363033908
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518591457346566
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -5.703736186614678e-7 (-5,70374e-5%)
+Erro relativo absoluto: 5.703736186614678e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 1000.2000149041414 Myr
+K: 2.1581202172992513
+U: -4.109979363033908
+U entre partículas: -4.109979363033908
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518591457346566
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -5.703736186614678e-7 (-5,70374e-5%)
+Erro relativo absoluto: 5.703736186614678e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="1057.2000157535076" data-value="-0.0002404567921213882" cx="488.07396301849076" cy="274.44827586206895" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 1057.2000157535076 Myr
+K: 2.1621953463048653
+U: -4.114058072126404
+U entre partículas: -4.114058072126404
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.951862725821539
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -0.000002404567921213882 (-0,000240456792%)
+Erro relativo absoluto: 0.000002404567921213882
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 1057.2000157535076 Myr
+K: 2.1621953463048653
+U: -4.114058072126404
+U entre partículas: -4.114058072126404
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.951862725821539
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -0.000002404567921213882 (-0,000240456792%)
+Erro relativo absoluto: 0.000002404567921213882
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="1114.5000166073442" data-value="-0.00001799098809461662" cx="508.02348825587205" cy="175.45762121756286" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 1114.5000166073442 Myr
+K: 2.1633076188116913
+U: -4.115166002416565
+U entre partículas: -4.115166002416565
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518583836048737
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -1.799098809461662e-7 (-1,79910e-5%)
+Erro relativo absoluto: 1.799098809461662e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 1114.5000166073442 Myr
+K: 2.1633076188116913
+U: -4.115166002416565
+U entre partículas: -4.115166002416565
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518583836048737
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -1.799098809461662e-7 (-1,79910e-5%)
+Erro relativo absoluto: 1.799098809461662e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="1171.20001745224" data-value="-0.000036721944397729117" cx="527.7641179410296" cy="183.79233870223123" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 1171.20001745224 Myr
+K: 2.144875989682644
+U: -4.096734738889193
+U entre partículas: -4.096734738889193
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.951858749206549
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -3.672194439772912e-7 (-3,67219e-5%)
+Erro relativo absoluto: 3.672194439772912e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 1171.20001745224 Myr
+K: 2.144875989682644
+U: -4.096734738889193
+U entre partículas: -4.096734738889193
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.951858749206549
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -3.672194439772912e-7 (-3,67219e-5%)
+Erro relativo absoluto: 3.672194439772912e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="1200.0000178813934" data-value="-0.00008842049346467663" cx="537.7911044477761" cy="206.79665273016334" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 1200.0000178813934 Myr
+K: 2.155000642334466
+U: -4.106860400623297
+U entre partículas: -4.106860400623297
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518597582888315
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -8.842049346467662e-7 (-8,84205e-5%)
+Erro relativo absoluto: 8.842049346467662e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 1200.0000178813934 Myr
+K: 2.155000642334466
+U: -4.106860400623297
+U entre partículas: -4.106860400623297
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518597582888315
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -8.842049346467662e-7 (-8,84205e-5%)
+Erro relativo absoluto: 8.842049346467662e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><circle class="energy-point" data-series="bh" data-time-myr="1200.6000178903341" data-value="-0.000014820102391996746" cx="538" cy="174.04667155328335" r="2.7" fill="#67c59e" stroke="#102127" stroke-width="1" tabindex="0" aria-label="Tempo físico: 1200.6000178903341 Myr
+K: 2.154380056126122
+U: -4.106238377839809
+U entre partículas: -4.106238377839809
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518583217136865
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -1.4820102391996746e-7 (-1,48201e-5%)
+Erro relativo absoluto: 1.4820102391996746e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²"><title>Tempo físico: 1200.6000178903341 Myr
+K: 2.154380056126122
+U: -4.106238377839809
+U entre partículas: -4.106238377839809
+U do halo estático (ΣmΦ, sem fator 1/2): 0
+E: -1.9518583217136865
+Unidades de energia: 10¹⁰ M☉ kpc²/Myr²
+Erro relativo assinado: -1.4820102391996746e-7 (-1,48201e-5%)
+Erro relativo absoluto: 1.4820102391996746e-7
+Método: GPU direta Float32 · redução compensada
+Força: GPU direct f32
+Trajetória: Float32
+Avaliação: GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy
+G: 0.04498502239584923; ε²: 0.009999999776482582 kpc²</title></circle><path d="M120 132V285H538" fill="none" stroke="#91aab3"></path><text x="329" y="330" text-anchor="middle" font-size="14">Tempo físico [Myr]</text><text transform="translate(19 210) rotate(-90)" text-anchor="middle" font-size="12">Variação relativa da energia [%]</text></g><metadata id="energy-bh-data">{"schema":"energy-panels-v1","estimator":"gpu","realizationId":"375ccf23-9437-4a6f-bc92-76152c5e3c25","configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"codeIdentity":"24303047a7d14d2005c7c429a8d2aba531545ba78dbdb6a9c3fbf5df49b85c27","units":"10¹⁰ M☉ kpc²/Myr²","relativeUnits":"percent","directSampling":{"cadenceMyr":200,"events":[{"type":"completed","timeMyr":0,"reason":"Referência direta Float64 calculada no snapshot preservado."},{"type":"completed","timeMyr":200.10000298172235,"reason":"Referência direta Float64 calculada no snapshot preservado."},{"type":"completed","timeMyr":400.1000059619546,"reason":"Referência direta Float64 calculada no snapshot preservado."},{"type":"completed","timeMyr":600.0000089406967,"reason":"Referência direta Float64 calculada no snapshot preservado."},{"type":"completed","timeMyr":800.000011920929,"reason":"Referência direta Float64 calculada no snapshot preservado."},{"type":"completed","timeMyr":1000.2000149041414,"reason":"Referência direta Float64 calculada no snapshot preservado."}]},"xDomain":[0,1200.6000178903341],"estimated":[{"timeMyr":0,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":36.974999997764826,"K":1.8658587765512142,"U":-3.8177168089975417,"E":-1.9518580324463275,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.8177168089975417,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":0,"absolute":0,"percent":0,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":50.70000075548887,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":34.559999998658895,"K":1.8993081058516288,"U":-3.8511664152404563,"E":-1.9518583093888275,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.8511664152404563,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-1.418866000703083e-7,"absolute":1.418866000703083e-7,"percent":-0.00001418866000703083,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":106.80000159144402,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":40.5,"K":1.9181224605785965,"U":-3.869981170998738,"E":-1.9518587104201415,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.869981170998738,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-3.473479129671415e-7,"absolute":3.473479129671415e-7,"percent":-0.00003473479129671415,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":166.200002476573,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":33.58000000193715,"K":1.9614459400897293,"U":-3.91330288028022,"E":-1.9518569401904908,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.91330288028022,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":5.595979925325518e-7,"absolute":5.595979925325518e-7,"percent":0.00005595979925325518,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":200.10000298172235,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":40.46000000089407,"K":1.9791408495299594,"U":-3.930998511838805,"E":-1.9518576623088455,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.930998511838805,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":1.8963340357989058e-7,"absolute":1.8963340357989058e-7,"percent":0.000018963340357989057,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":259.10000386089087,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":32.86499999836087,"K":1.999084305647979,"U":-3.9509442259746486,"E":-1.9518599203266696,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.9509442259746486,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-9.672221599483256e-7,"absolute":9.672221599483256e-7,"percent":-0.00009672221599483256,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":315.8000047057867,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":35.36500000208616,"K":1.9763821809576374,"U":-3.928241001973568,"E":-1.9518588210159304,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.928241001973568,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-4.040097127153079e-7,"absolute":4.040097127153079e-7,"percent":-0.000040400971271530786,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":375.2000055909157,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":40.314999997615814,"K":2.0116026769125366,"U":-3.963460025313747,"E":-1.9518573484012105,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.963460025313747,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":3.5045843786954806e-7,"absolute":3.5045843786954806e-7,"percent":0.000035045843786954805,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":400.1000059619546,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":32.440000001341105,"K":2.0012136618679515,"U":-3.953071159476803,"E":-1.9518574976088514,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.953071159476803,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":2.740145375299812e-7,"absolute":2.740145375299812e-7,"percent":0.00002740145375299812,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":457.9000068232417,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":31.86999999731779,"K":2.0094933701479674,"U":-3.961351103739865,"E":-1.9518577335918978,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.961351103739865,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":1.5311279031562984e-7,"absolute":1.5311279031562984e-7,"percent":0.000015311279031562985,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":513.7000076547265,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":33.51500000059605,"K":2.0384242709274756,"U":-3.990282403262704,"E":-1.9518581323352282,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.990282403262704,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-5.117631459151374e-8,"absolute":5.117631459151374e-8,"percent":-0.000005117631459151374,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":573.9000085517764,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":41.850000001490116,"K":2.0280024936070804,"U":-3.9798597211729536,"E":-1.9518572275658732,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.9798597211729536,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":4.1236628940536574e-7,"absolute":4.1236628940536574e-7,"percent":0.000041236628940536576,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":600.0000089406967,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":32.54499999806285,"K":2.0414371583593334,"U":-3.993294764159934,"E":-1.9518576058006007,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.993294764159934,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":2.1858440504145494e-7,"absolute":2.1858440504145494e-7,"percent":0.000021858440504145493,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":655.6000097692013,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":32.92000000178814,"K":2.051883304882019,"U":-4.003742203902156,"E":-1.9518588990201375,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.003742203902156,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-4.4397379094072046e-7,"absolute":4.4397379094072046e-7,"percent":-0.00004439737909407205,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":712.3000106140971,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":33.525000002235174,"K":2.0305983210113006,"U":-3.9824566993032384,"E":-1.9518583782919379,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.9824566993032384,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-1.771878920613652e-7,"absolute":1.771878920613652e-7,"percent":-0.00001771878920613652,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":769.000011458993,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":34.25499999895692,"K":2.0639162679202436,"U":-4.0157753369464615,"E":-1.9518590690262179,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.0157753369464615,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-5.310734044876112e-7,"absolute":5.310734044876112e-7,"percent":-0.00005310734044876112,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":800.000011920929,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":42.64000000059605,"K":2.098786777035449,"U":-4.050647633331707,"E":-1.9518608562962578,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.050647633331707,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-0.000001446749652583207,"absolute":0.000001446749652583207,"percent":-0.0001446749652583207,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":857.2000127732754,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":31.820000000298023,"K":2.116040782161942,"U":-4.067899330488906,"E":-1.9518585483269644,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.067899330488906,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-2.643023356718702e-7,"absolute":2.643023356718702e-7,"percent":-0.000026430233567187017,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":913.5000136122108,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":33.00999999791384,"K":2.1440296281459794,"U":-4.095888654885929,"E":-1.9518590267399496,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.095888654885929,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-5.09408781568419e-7,"absolute":5.09408781568419e-7,"percent":-0.0000509408781568419,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":969.3000144436955,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":34.32499999925494,"K":2.1543266163428747,"U":-4.106185475062109,"E":-1.951858858719234,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.106185475062109,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-4.233263346025385e-7,"absolute":4.233263346025385e-7,"percent":-0.00004233263346025385,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":1000.2000149041414,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":34.475000001490116,"K":2.1581202172992513,"U":-4.109979363033908,"E":-1.9518591457346566,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.109979363033908,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-5.703736186614678e-7,"absolute":5.703736186614678e-7,"percent":-0.00005703736186614678,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":1057.2000157535076,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":36.184999998658895,"K":2.1621953463048653,"U":-4.114058072126404,"E":-1.951862725821539,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.114058072126404,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-0.000002404567921213882,"absolute":0.000002404567921213882,"percent":-0.0002404567921213882,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":1114.5000166073442,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":33.730000000447035,"K":2.1633076188116913,"U":-4.115166002416565,"E":-1.9518583836048737,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.115166002416565,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-1.799098809461662e-7,"absolute":1.799098809461662e-7,"percent":-0.00001799098809461662,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":1171.20001745224,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":35.14000000059605,"K":2.144875989682644,"U":-4.096734738889193,"E":-1.951858749206549,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.096734738889193,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-3.672194439772912e-7,"absolute":3.672194439772912e-7,"percent":-0.000036721944397729117,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":1200.0000178813934,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":35.03000000119209,"K":2.155000642334466,"U":-4.106860400623297,"E":-1.9518597582888315,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.106860400623297,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-8.842049346467662e-7,"absolute":8.842049346467662e-7,"percent":-0.00008842049346467663,"denominator":1.9518580324463275,"normalization":"|E0|"}},{"timeMyr":1200.6000178903341,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":33.019999999552965,"K":2.154380056126122,"U":-4.106238377839809,"E":-1.9518583217136865,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.106238377839809,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"GPU direta Float32 · redução compensada","relative":{"signed":-1.4820102391996746e-7,"absolute":1.4820102391996746e-7,"percent":-0.000014820102391996746,"denominator":1.9518580324463275,"normalization":"|E0|"}}],"direct":[{"timeMyr":0,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":758.7899999991059,"K":1.8658587765512142,"U":-3.8177168510036705,"E":-1.9518580744524563,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.8177168510036705,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"Pares diretos Float64 · CPU compensada","relative":{"signed":0,"absolute":0,"percent":0,"denominator":1.9518580744524563,"normalization":"|E0|"},"origin":"automatic","configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","requestedTimeMyr":0,"samplingCadenceMyr":200},{"timeMyr":200.10000298172235,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":754.2350000031292,"K":1.9791408495299594,"U":-3.930998655076495,"E":-1.9518578055465357,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.930998655076495,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"Pares diretos Float64 · CPU compensada","relative":{"signed":1.3776919754639723e-7,"absolute":1.3776919754639723e-7,"percent":0.000013776919754639724,"denominator":1.9518580744524563,"normalization":"|E0|"},"origin":"automatic","configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","requestedTimeMyr":200,"samplingCadenceMyr":200},{"timeMyr":400.1000059619546,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":790.0049999989569,"K":2.0012136618679515,"U":-3.9530712529160006,"E":-1.9518575910480491,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.9530712529160006,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"Pares diretos Float64 · CPU compensada","relative":{"signed":2.4766370746786583e-7,"absolute":2.4766370746786583e-7,"percent":0.000024766370746786583,"denominator":1.9518580744524563,"normalization":"|E0|"},"origin":"automatic","configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","requestedTimeMyr":400,"samplingCadenceMyr":200},{"timeMyr":600.0000089406967,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":746.6849999986589,"K":2.0414371583593334,"U":-3.993295064908844,"E":-1.9518579065495105,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.993295064908844,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"Pares diretos Float64 · CPU compensada","relative":{"signed":8.602210784007572e-8,"absolute":8.602210784007572e-8,"percent":0.000008602210784007571,"denominator":1.9518580744524563,"normalization":"|E0|"},"origin":"automatic","configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","requestedTimeMyr":600,"samplingCadenceMyr":200},{"timeMyr":800.000011920929,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":757.9350000023842,"K":2.098786777035449,"U":-4.050647631017852,"E":-1.951860853982403,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.050647631017852,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"Pares diretos Float64 · CPU compensada","relative":{"signed":-0.000001424043060830718,"absolute":0.000001424043060830718,"percent":-0.0001424043060830718,"denominator":1.9518580744524563,"normalization":"|E0|"},"origin":"automatic","configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","requestedTimeMyr":800,"samplingCadenceMyr":200},{"timeMyr":1000.2000149041414,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":754.7049999982119,"K":2.1581202172992513,"U":-4.109979613231975,"E":-1.9518593959327233,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.109979613231975,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"Pares diretos Float64 · CPU compensada","relative":{"signed":-6.77037067545048e-7,"absolute":6.77037067545048e-7,"percent":-0.0000677037067545048,"denominator":1.9518580744524563,"normalization":"|E0|"},"origin":"automatic","configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","requestedTimeMyr":1000,"samplingCadenceMyr":200},{"timeMyr":1200.0000178813934,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":749.1649999991059,"K":2.155000642334466,"U":-4.1068604353247125,"E":-1.9518597929902466,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.1068604353247125,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer","method":"Pares diretos Float64 · CPU compensada","relative":{"signed":-8.804624745978385e-7,"absolute":8.804624745978385e-7,"percent":-0.00008804624745978386,"denominator":1.9518580744524563,"normalization":"|E0|"},"origin":"automatic","configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","requestedTimeMyr":1200,"samplingCadenceMyr":200}],"comparison":[{"timeMyr":0,"method":"Diferença de estimadores no mesmo snapshot","BH":{"timeMyr":0,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":36.974999997764826,"K":1.8658587765512142,"U":-3.8177168089975417,"E":-1.9518580324463275,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.8177168089975417,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"direct":{"timeMyr":0,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":758.7899999991059,"K":1.8658587765512142,"U":-3.8177168510036705,"E":-1.9518580744524563,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.8177168510036705,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"B":4.2006128797567044e-8,"epsilonPercent":0.00000215210979462996,"deltaB":0,"etaPercent":0,"bhChangeCommonPercent":0,"directChangeCommonPercent":0,"n":30000,"configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","instantNormalizationReason":null},{"timeMyr":200.10000298172235,"method":"Diferença de estimadores no mesmo snapshot","BH":{"timeMyr":200.10000298172235,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":40.46000000089407,"K":1.9791408495299594,"U":-3.930998511838805,"E":-1.9518576623088455,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.930998511838805,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"direct":{"timeMyr":200.10000298172235,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":754.2350000031292,"K":1.9791408495299594,"U":-3.930998655076495,"E":-1.9518578055465357,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.930998655076495,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"B":1.4323769015334165e-7,"epsilonPercent":0.000007338531000890916,"deltaB":1.012315613557746e-7,"etaPercent":0.000005186420195237429,"bhChangeCommonPercent":0.000018963339949877152,"directChangeCommonPercent":0.000013776919754639724,"n":30000,"configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","instantNormalizationReason":null},{"timeMyr":400.1000059619546,"method":"Diferença de estimadores no mesmo snapshot","BH":{"timeMyr":400.1000059619546,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":32.440000001341105,"K":2.0012136618679515,"U":-3.953071159476803,"E":-1.9518574976088514,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.953071159476803,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"direct":{"timeMyr":400.1000059619546,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":790.0049999989569,"K":2.0012136618679515,"U":-3.9530712529160006,"E":-1.9518575910480491,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.9530712529160006,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"B":9.34391977125415e-8,"epsilonPercent":0.000004787193396746192,"deltaB":5.1433068914974456e-8,"etaPercent":0.0000026350824165021674,"bhChangeCommonPercent":0.000027401453163288748,"directChangeCommonPercent":0.000024766370746786583,"n":30000,"configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","instantNormalizationReason":null},{"timeMyr":600.0000089406967,"method":"Diferença de estimadores no mesmo snapshot","BH":{"timeMyr":600.0000089406967,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":32.54499999806285,"K":2.0414371583593334,"U":-3.993294764159934,"E":-1.9518576058006007,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.993294764159934,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"direct":{"timeMyr":600.0000089406967,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":746.6849999986589,"K":2.0414371583593334,"U":-3.993295064908844,"E":-1.9518579065495105,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-3.993295064908844,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"B":3.0074890977616064e-7,"epsilonPercent":0.00001540834036980816,"deltaB":2.587427809785936e-7,"etaPercent":0.000013256229249720283,"bhChangeCommonPercent":0.000021858440033727853,"directChangeCommonPercent":0.000008602210784007571,"n":30000,"configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","instantNormalizationReason":null},{"timeMyr":800.000011920929,"method":"Diferença de estimadores no mesmo snapshot","BH":{"timeMyr":800.000011920929,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":42.64000000059605,"K":2.098786777035449,"U":-4.050647633331707,"E":-1.9518608562962578,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.050647633331707,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"direct":{"timeMyr":800.000011920929,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":757.9350000023842,"K":2.098786777035449,"U":-4.050647631017852,"E":-1.951860853982403,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.050647631017852,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"B":-2.3138548854717556e-9,"epsilonPercent":-1.1854609824008572e-7,"deltaB":-4.43199836830388e-8,"etaPercent":-0.0000022706560616847943,"bhChangeCommonPercent":-0.0001446749621447566,"directChangeCommonPercent":-0.0001424043060830718,"n":30000,"configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","instantNormalizationReason":null},{"timeMyr":1000.2000149041414,"method":"Diferença de estimadores no mesmo snapshot","BH":{"timeMyr":1000.2000149041414,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":34.475000001490116,"K":2.1581202172992513,"U":-4.109979363033908,"E":-1.9518591457346566,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.109979363033908,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"direct":{"timeMyr":1000.2000149041414,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":754.7049999982119,"K":2.1581202172992513,"U":-4.109979613231975,"E":-1.9518593959327233,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.109979613231975,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"B":2.501980667091175e-7,"epsilonPercent":0.000012818447231930702,"deltaB":2.0819193791155044e-7,"etaPercent":0.000010666346115864667,"bhChangeCommonPercent":-0.000057037360638640136,"directChangeCommonPercent":-0.0000677037067545048,"n":30000,"configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","instantNormalizationReason":null},{"timeMyr":1200.0000178813934,"method":"Diferença de estimadores no mesmo snapshot","BH":{"timeMyr":1200.0000178813934,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":null,"treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":35.03000000119209,"K":2.155000642334466,"U":-4.106860400623297,"E":-1.9518597582888315,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.106860400623297,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"direct":{"timeMyr":1200.0000178813934,"n":30000,"mass":104.93158133976976,"effectiveDt":0.10000000149011612,"treeTheta":0.5,"diagnosticCostMs":749.1649999991059,"K":2.155000642334466,"U":-4.1068604353247125,"E":-1.9518597929902466,"G":0.04498502239584923,"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","evaluationPrecision":"Float64 compensated CPU evaluation","velocityEpoch":"full-step, after final KDK kick","externalPotential":0,"selfPotential":-4.1068604353247125,"haloRepresentation":"particles","hamiltonian":"K + U_particle_pairs_Plummer"},"B":3.47014150747782e-8,"epsilonPercent":0.0000017778641273006437,"deltaB":-7.304713722788847e-9,"etaPercent":-3.7424410198666706e-7,"bhChangeCommonPercent":-0.00008842049156177052,"directChangeCommonPercent":-0.00008804624745978386,"n":30000,"configuration":{"baseN":30000,"baseCounts":[4500,13500,12000],"counts":[4500,13500,12000],"n":30000,"haloRefinement":1,"haloRepresentation":"particles","haloRefinementApplied":1,"requestedN":30000,"particleCountConvention":"legacy-base-v1","gpuDiagnostics":true,"observationalDiagnostics":true,"enforceMemoryBudget":false,"enforceEnergyReferenceBudget":false,"dt":0.1,"epsilon":0.1,"seed":2026,"energyAuditCadenceMyr":200,"withHalo":true,"requestedAlgorithm":"auto","requestedBackend":"auto","selected":"gpu","diagnosticOptions":{"dt":0.1,"energyAuditCadenceMyr":200,"enforceEnergyReferenceBudget":false,"withHalo":true,"haloRepresentation":"particles","haloMode":"live","forceMethod":"GPU direct f32","algorithm":"direct","epsilon":0.1}},"backend":"WebGPU","instantNormalizationReason":null}],"bhInitial":{"time":0,"n":30000,"mass":104.93158133976976,"kinetic":1.8658587765512142,"selfPotential":-3.8177168089975417,"externalPotential":0,"potential":-3.8177168089975417,"energy":-1.9518580324463275,"energyScale":5.6835755855487555,"algorithm":"gpu-pairs-f32","energyAlgorithm":"gpu-pairs-f32","G":0.04498502239584923,"epsilon":0.0999999988824129,"theta":null,"energyApproximate":true,"energyMethod":"Energia estimada — GPU direta Float32","externalPotentialModel":null,"selfGravity":true,"externalExtrapolated":0,"momentum":[0,0,0],"momentumNorm":0,"momentumScale":17.498286761645964,"centerOfMass":[0,0,0],"centerOfMassVelocity":[0,0,0],"angularMomentum":[-5.390452926076532,-10.578448806843578,28.88185576064406],"angularMomentumNorm":31.226945961555476,"angularMomentumScale":856.0392931304692,"Lx":-5.390452926076532,"Ly":-10.578448806843578,"Lz":28.88185576064406,"Lnorm":31.226945961555476,"intrinsicAngularMomentum":[-5.390452926076532,-10.578448806843578,28.88185576064406],"origin":[0,0,0],"conditions":{"system":"isolated","energy":true,"angularVector":true,"angularZ":true,"linearMomentum":true,"centerOfMassBallistic":true,"angularOrigin":"specified inertial origin; also report intrinsic COM angular momentum","forceCaveat":"Float32 force and accumulation roundoff must be measured; Float64 readback diagnostics do not upgrade the trajectory precision."},"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","requestedDt":0.1,"effectiveDt":0.10000000149011612,"velocityEpoch":"full-step, after final KDK kick","haloRepresentation":"particles","haloField":null,"precision":"GPU Float32 pair potential; compensated CPU Float64 reduction, kinetic and static external energy","units":"1e10 Msun kpc^2 Myr^-2","hamiltonian":"K + U_particle_pairs_Plummer","arithmeticUncertainty":"Float32 pair/field force arithmetic, not a certified error interval; compare independent Float64 Hamiltonian on snapshots.","treeOrder":null,"treeLeafBucket":null,"diagnosticCostMs":36.974999997764826},"directInitial":{"time":0,"n":30000,"mass":104.93158133976976,"kinetic":1.8658587765512142,"selfPotential":-3.8177168510036705,"externalPotential":0,"potential":-3.8177168510036705,"energy":-1.9518580744524563,"energyScale":5.683575627554885,"algorithm":"direct","energyAlgorithm":"direct","G":0.04498502239584923,"epsilon":0.0999999988824129,"theta":0.5,"energyApproximate":false,"energyMethod":"Energia direta Float64 — pares compensados","externalPotentialModel":null,"selfGravity":true,"externalExtrapolated":0,"momentum":[0,0,0],"momentumNorm":0,"momentumScale":17.498286761645964,"centerOfMass":[0,0,0],"centerOfMassVelocity":[0,0,0],"angularMomentum":[-5.390452926076532,-10.578448806843578,28.88185576064406],"angularMomentumNorm":31.226945961555476,"angularMomentumScale":856.0392931304692,"Lx":-5.390452926076532,"Ly":-10.578448806843578,"Lz":28.88185576064406,"Lnorm":31.226945961555476,"intrinsicAngularMomentum":[-5.390452926076532,-10.578448806843578,28.88185576064406],"origin":[0,0,0],"conditions":{"system":"isolated","energy":true,"angularVector":true,"angularZ":true,"linearMomentum":true,"centerOfMassBallistic":true,"angularOrigin":"specified inertial origin; also report intrinsic COM angular momentum","forceCaveat":"Float32 force and accumulation roundoff must be measured; Float64 readback diagnostics do not upgrade the trajectory precision."},"epsilonSquared":0.009999999776482582,"forceAlgorithm":"GPU direct f32","trajectoryPrecision":"Float32","requestedDt":0.1,"effectiveDt":0.10000000149011612,"velocityEpoch":"full-step, after final KDK kick","haloRepresentation":"particles","haloField":null,"precision":"Float64 compensated CPU evaluation","units":"1e10 Msun kpc^2 Myr^-2","hamiltonian":"K + U_particle_pairs_Plummer","arithmeticUncertainty":"Not a formal interval; effective Float32 force/table constants recorded; independent Float64 energy evaluates the target Hamiltonian.","diagnosticCostMs":758.7899999991059,"maximumWorkerComputeMs":554.695000000298,"parallelWorkers":4,"pairCount":449985000},"biasInitial":4.2006128797567044e-8,"normalization":{"BH":{"value":1.9518580324463275,"reason":null},"direct":{"value":1.9518580744524563,"reason":null},"comparison":"B = E_BH - E_dir; ΔB = B - B0; η = 100 ΔB / |E_dir(0)|. Native percentages with different denominators are not subtracted."},"summary":{"bhMaxAbsolutePercent":0.0002404567921213882,"bhLastPercent":-0.000014820102391996746,"directMaxAbsolutePercent":0.0001424043060830718,"directLastPercent":-0.00008804624745978386},"rejectedComparisonTimes":[],"noInterpolatedDirectPoints":true,"fastHistory":"Every measured energy epoch in this realization; no temporal decimation. Archived inputs may already be decimated: see source.","plot":{"kind":"bh","mode":"relative","color":"#67c59e","xDomain":[0,1200.6000178903341],"yDomain":{"min":-0.0002641701194313597,"max":0.00007967312656322665,"minimal":false,"minimumDisplaySpan":2.8421709430404007e-12,"empty":false},"axisOffset":0,"referenceValue":0,"interpolated":"straight segments between retained measured samples","plottedTimes":[0,50.70000075548887,106.80000159144402,166.200002476573,200.10000298172235,259.10000386089087,315.8000047057867,375.2000055909157,400.1000059619546,457.9000068232417,513.7000076547265,573.9000085517764,600.0000089406967,655.6000097692013,712.3000106140971,769.000011458993,800.000011920929,857.2000127732754,913.5000136122108,969.3000144436955,1000.2000149041414,1057.2000157535076,1114.5000166073442,1171.20001745224,1200.0000178813934,1200.6000178903341],"notes":["Normalização: energia inicial própria em t = 0."]}}</metadata></svg>
